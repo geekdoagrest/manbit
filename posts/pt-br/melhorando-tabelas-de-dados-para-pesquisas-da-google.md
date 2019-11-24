@@ -2,7 +2,7 @@
 
 Isso mesmo, tabelas. Se vamos melhorar nossas tabelas para que elas apareçam na listagem de resultados é importante primeiro sempre lembrar a diferença entre o que vamos chamar de tabela de conteúdo e tabela de dados. 
 
-No inicio da web os desenvolvedores perceberam que poderiam utilizar tabelas para para distribuir e organizar o conteúdo na página, chamamos isso de tabela de conteúdo, Isso hoje em dia é considerado arcaico e não deve ser utilizado, porem com o passar do tempo acabamos esquecendo o real motivo de utilizar a tag **table** do HTML e sua importancia no SEO quando bem utilizada nas chamadas **tabelas de dados**.
+No inicio da web os desenvolvedores perceberam que poderiam utilizar tabelas para para distribuir e organizar o conteúdo na página, chamamos isso de **tabela de conteúdo**, Isso hoje em dia é considerado arcaico e não deve ser utilizado, porem com o passar do tempo acabamos esquecendo o real motivo de utilizar a tag **table** do HTML e sua importancia no SEO quando bem utilizada nas chamadas **tabelas de dados**.
 
 [![Print da tela de uma tabela SEO](https://manbit.com.br/posts/posts/img/tableSEO1.png "Print da tela de uma tabela SEO")](https://manbit.com.br/posts/posts/img/tableSEO1.png "Print da tela de uma tabela SEO")
 
