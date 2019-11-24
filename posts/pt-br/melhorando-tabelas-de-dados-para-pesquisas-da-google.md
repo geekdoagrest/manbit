@@ -1,18 +1,20 @@
-# Melhorando Tabelas de Dados para Pesquisas da Google
+# As tabelas HTML são amigáveis para SEO?
 
-Isso mesmo, tabelas de Dados. Se vamos melhorar nossas tabelas para que elas apareçam na listagem de resultados (SPERS?) é importante primeiro sempre lembrar a diferença entre o que vamos chamar de tabela de conteúdo e tabela de dados. 
-No início da web, os desenvolvedores notaram que poderiam utilizar tabelas para distribuir e organizar o conteúdo na página: essa imagem ao lado acima desse texto que fica a direita, enquanto o texto principal fica numa célula única à esquerda. Isso hoje em dia é considerado arcaico por um simples motivo, mas vou lhe dar dois: o primeiro e principal é que o CSS oferece muito mais controle sobre o conteúdo de uma página, garantindo melhor compatibilidade com vários navegadores e também melhor adaptação da tela. 
-A segunda razão que lhe dou é que essa prática se parece muito com um funcionário de escritório mal treinado que está usando o Microsoft Excel para criar um memorando para impressão que poderia muito bem ser feito no Word. Parece bom no papel, mas quando você analisa o arquivo, vê uma bagunça. Imagine agora o que o Google Search Engine "vê" quando você usa tabelas de conteúdo em sua página da web?
+Isso mesmo, tabelas. Se vamos melhorar nossas tabelas para que elas apareçam na listagem de resultados é importante primeiro sempre lembrar a diferença entre o que vamos chamar de tabela de conteúdo e tabela de dados. 
+
+No inicio da web os desenvolvedores perceberam que poderiam utilizar tabelas para para distribuir e organizar o conteúdo na página, chamamos isso de tabela de conteúdo, Isso hoje em dia é considerado arcaico e não deve ser utilizado, porem com o passar do tempo acabamos esquecendo o real motivo de utilizar a tag **table** do HTML e sua importancia no SEO quando bem utilizada nas chamadas **tabelas de dados**.
+
+[![Print da tela de uma tabela SEO](https://manbit.com.br/posts/posts/img/tableSEO1.png "Print da tela de uma tabela SEO")](https://manbit.com.br/posts/posts/img/tableSEO1.png "Print da tela de uma tabela SEO")
 
 Por tanto, se você deseja uma melhor aparência de resultado na listagem de busca da Google, e você deve desejar isso, pois torna o seu resultado mais atraente para o clique de um visitante, então você deve optar por uso de tabelas de dados.
 
 ## O que é uma tabela de dados?
-Pode parecer óbvio, mas tabelas de dados são aquelas que contém dados, mas organizados de maneira lógica para permitir ações como consultas e às vezes cálculos. Simplesmente jogar uma informação abaixo da outra, e outras ao lado destas, não garante formam uma boa tabela de dados.
+Pode parecer óbvio, mas tabelas de dados são aquelas que contém dados, mas organizados de maneira lógica para permitir ações como consultas e às vezes cálculos. Simplesmente jogar uma informação abaixo da outra, e outras ao lado destas, não garante a formação de uma boa tabela de dados.
 Mostramos abaixo algumas regras simples para organização dos dados que irão melhorar a sua table, seja ela vertical ou horizontal. Importante lembrar que o fluxo de dado vai depender da quantidades de entradas de dados:
 Dados com sequência, progressão ou comparação, entre outros, que se agrupam em muitas entradas, pedem quase sempre uma tabela vertical.
 Dados informativos, que normalmente formam um par Tema-Valor, pedem quase sempre uma tabela horizontal.
 
-A primeira regra é que uma boa tabela de dados preferencialmente tem uma linha ou coluna que atua como títulos (headers) de identificação da informação seguinte para uma coluna (ou linha) contendo valores (subject column/ value line). 
+A primeira regra é que uma boa **tabela de dados** preferencialmente tem uma linha ou coluna que atua como títulos (headers) de identificação da informação seguinte para uma coluna (ou linha) contendo valores (subject column/ value line). 
 ### Tabelas Vertical
 Boas tabelas verticais irão apresentar pelo menos algumas das características abaixo. Elas não são necessariamente regras fixas, porém são grandes indicativos de uma boa tabela:
 - Colunas de Dados - tabelas verticais terão uma coluna de dados identificável que representa consistentemente uma classe ou categoria de informação. Isso torna a tabela mais adequada para análise.
@@ -31,11 +33,6 @@ Nesses casos, muitas das indicações feitas anteriormente para tabelas verticai
 O principal é organizar de modo que a relação tema-valor seja sempre mantida na mesma ordem, caso contrário o fluxo de informação fica prejudicado.
 Títulos (cabechaços) usados pela tab <th> nesse caso normalmente definem sessões da tabela, organizando grupo de informações semelhantes.
 
-## Exemplos
-Aqui mostramos dois bons exemplos de tabelas.
-
-Nas duas imagens, apontei o uso do título da informação e também pode ser notado a fluidez das informações.
-
-Devo usar tabelas na minha página
+## Devo usar tabelas na minha página
 Claro que sim. Uma boa tabela enriquece sua página e organiza melhor informações que, caso fossem apresentadas em forma de texto ou em listagem descritiva, tornaria a leitura cansativa e prejudicaria o interesse do visitante em permanecer na página.
 Os princípios que expliquei nesse artigo irão ajudar que suas tabelas tenham maior chance de aparecer na listagem de resultados da Google, melhorando o ranking de sua página e o potencial interesse dos visitantes
