@@ -1,12 +1,9 @@
 {
-  "name": "manbit",
-  "version": "1.0.0",
-  "description": "Site builder",
-  "main": "index.js",
-  "repository": "https://github.com/geekdoagrest/manbit.git",
-  "author": "geekdoagrest <geekdoagrest@gmail.com>",
-  "license": "MIT",
   "dependencies": {
-    "gulp": "^4.0.2"
+    "global": "^4.4.0",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0",
+    "gulp-connect": "^5.7.0",
+    "gulp-webserver": "^0.9.1"
   }
 }
