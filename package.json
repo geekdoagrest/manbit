@@ -1,0 +1,12 @@
+{
+  "name": "manbit",
+  "version": "1.0.0",
+  "description": "Site builder",
+  "main": "index.js",
+  "repository": "https://github.com/geekdoagrest/manbit.git",
+  "author": "geekdoagrest <geekdoagrest@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
