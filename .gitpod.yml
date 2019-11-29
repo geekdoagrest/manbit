@@ -1,0 +1,8 @@
+image: tmaier/docker-compose:latest
+
+ports:
+- port: 80
+
+tasks:
+- init: docker-compose up
+  command: echo 'start script'
