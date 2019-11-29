@@ -1,6 +1,5 @@
 ports:
   - port: 8080
-    onOpen: open-preview
 tasks:
   - init: Initialize
-    command: npm install -g gulp-cli && npm install && gulp serve
+    command: npm install -g gulp-cli && npm install
