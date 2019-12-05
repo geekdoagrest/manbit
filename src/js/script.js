@@ -1,0 +1,3 @@
+function maria(){
+    alert('ok');
+}
