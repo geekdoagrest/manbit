@@ -16,5 +16,9 @@
     "gulp-twig": "^1.2.0",
     "gulp-webp": "^4.0.1",
     "gulp-webserver": "^0.9.1"
+  },
+  "scripts": {
+    "build": "gulp build",
+    "deploy": "gulp build && gh-pages -d dist"
   }
 }
