@@ -2,4 +2,4 @@ ports:
   - port: 8080
 tasks:
   - init: Initialize
-    command: npm install -g gulp-cli && npm install
+    command: npm install -g gulp-cli gh-pages && npm install
