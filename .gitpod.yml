@@ -1,5 +1,6 @@
+tasks:
+  - init: yarn install
+    command: yarn start
 ports:
   - port: 8080
-tasks:
-  - init: Initialize
-    command: npm install -g gulp-cli gh-pages && npm install
+    onOpen: open-preview
