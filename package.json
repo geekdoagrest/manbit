@@ -19,6 +19,7 @@
   },
   "scripts": {
     "build": "gulp build",
-    "deploy": "gulp build && gh-pages -d dist"
+    "deploy": "gulp build && gh-pages -d dist",
+    "start": "node_modules/gulp/bin/gulp.js develop"
   }
 }
